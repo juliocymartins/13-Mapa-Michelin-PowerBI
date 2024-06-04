@@ -4,7 +4,7 @@ Este é o repositório para o projeto de Data Science do Guia Michelin. Aqui voc
 <img align="center" alt="Coding" width="500" src="https://i.ytimg.com/vi/ejuoFBNrvhg/maxresdefault.jpg">
 
 ### Contexto:
-No início da era automobilística, a Michelin, uma empresa de pneus, criou um guia de viagens, incluindo um guia de restaurantes.
+No início da era automobilística (no ano de 1900), a Michelin, uma empresa de pneus, criou um guia de viagens, incluindo um guia de restaurantes.
 
 Ao longo dos anos, as estrelas Michelin se tornaram muito prestigiadas devido aos seus altos padrões e avaliadores anônimos muito rigorosos. As estrelas Michelin são incrivelmente cobiçadas. Obter apenas uma pode mudar a vida de um chef.
 
