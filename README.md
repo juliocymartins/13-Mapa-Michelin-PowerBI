@@ -1,5 +1,5 @@
 # Mapa Interativo Guia Michelin 
-Este é o repositório para o projeto de Data Science do Guia Michelin. Aqui você encontrará dados originais, dados limpos e tratados, bem como o dashboard em Power BI.
+Este é o repositório para o projeto de Data Science do Guia Michelin. Aqui você encontrará os dados originais, dados limpos e tratados, bem como o dashboard em Power BI.
 
 <img align="center" alt="Coding" width="500" src="https://i.ytimg.com/vi/ejuoFBNrvhg/maxresdefault.jpg">
 
