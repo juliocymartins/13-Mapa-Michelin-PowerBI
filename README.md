@@ -11,7 +11,7 @@ Ao longo dos anos, as estrelas Michelin se tornaram muito prestigiadas devido ao
 Este projeto de Data Science visa explorar os dados do Guia Michelin, e visualizá-los em um mapa, com a finalidade de obter insights sobre os restaurantes premiados.
 
 ### Pastas e Arquivos:
-raw_data: Contém os dados originais do Guia Michelin. Os dados podem estar em diversos formatos, dependendo da fonte original.
+raw_data: Contém os dados originais ".csv" do Guia Michelin. 
 
 clean_data: Aqui você encontrará os dados limpos e tratados. Eles foram processados e preparados para análises posteriores.
 
