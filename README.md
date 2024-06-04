@@ -6,9 +6,9 @@ Este é o repositório para o projeto de Data Science do Guia Michelin. Aqui voc
 ### Contexto:
 No início da era automobilística, a Michelin, uma empresa de pneus, criou um guia de viagens, incluindo um guia de restaurantes.
 
-Ao longo dos anos, as estrelas Michelin se tornaram muito prestigiadas devido aos seus altos padrões e avaliadores anônimos muito rigorosos. As estrelas Michelin são incrivelmente cobiçadas. Obter apenas uma pode mudar a vida de um chef; perder uma, no entanto, também pode mudá-la.
+Ao longo dos anos, as estrelas Michelin se tornaram muito prestigiadas devido aos seus altos padrões e avaliadores anônimos muito rigorosos. As estrelas Michelin são incrivelmente cobiçadas. Obter apenas uma pode mudar a vida de um chef.
 
-Este projeto de Data Science visa explorar os dados do Guia Michelin para obter insights sobre os restaurantes premiados com estrelas Michelin.
+Este projeto de Data Science visa explorar os dados do Guia Michelin, e visualizá-los em um mapa, com a finalidade de obter insights sobre os restaurantes premiados.
 
 ### Pastas e Arquivos:
 raw_data: Contém os dados originais do Guia Michelin. Os dados podem estar em diversos formatos, dependendo da fonte original.
@@ -26,5 +26,7 @@ Julio C. Y. Martins
 yamashitajulio@gmail.com
 
 ### Observações:
-O tratamento de dados pode ser realizado no próprio Power BI, mas a maior parte foi feita em Python. Em breve, o código comentado será compartilhado. Lamento não conseguir compartilhar no Power BI, mas em breve estarei atualizando para a versão paga e postarei lá também. Agradeço a compreensão.
+O tratamento de dados pode ser realizado no próprio Power BI, mas a maior parte foi feita em Python. Em breve, o código comentado será compartilhado. Lamento também não conseguir compartilhar o relatório no Power BI por enquanto. Logo estarei resolvendo esse problema, agradeço a compreensão. 
+
+Qualquer dúvida estou à disposição. 😊
 
