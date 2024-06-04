@@ -26,7 +26,7 @@ Julio C. Y. Martins
 yamashitajulio@gmail.com
 
 ### Observações:
-O tratamento de dados pode ser realizado no próprio Power BI, mas a maior parte foi feita em Python. Em breve, o código comentado será compartilhado. Lamento também não conseguir compartilhar o relatório no Power BI por enquanto. Logo estarei resolvendo esse problema, agradeço a compreensão. 
+O tratamento de dados pode ser realizado no próprio Power BI, mas a maior parte foi feita em Python. Em breve, o código comentado será compartilhado. Lamento também não conseguir compartilhar o relatório no Power BI por enquanto. Logo estarei resolvendo esse problema. Agradeço a compreensão. 
 
 Qualquer dúvida estou à disposição. 😊
 
