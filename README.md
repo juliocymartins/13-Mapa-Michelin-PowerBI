@@ -1,7 +1,7 @@
 # Mapa Interativo Guia Michelin 
 Este é o repositório para o projeto de Data Science do Guia Michelin. Aqui você encontrará dados originais, dados limpos e tratados, bem como o dashboard em Power BI.
 
-<img align="center" alt="Coding" width="400" src="https://i.ytimg.com/vi/ejuoFBNrvhg/maxresdefault.jpg">
+<img align="center" alt="Coding" width="800" src="https://i.ytimg.com/vi/ejuoFBNrvhg/maxresdefault.jpg">
 
 ### Contexto:
 No início da era automobilística, a Michelin, uma empresa de pneus, criou um guia de viagens, incluindo um guia de restaurantes.
