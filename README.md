@@ -15,6 +15,8 @@ raw_data: Contém os dados originais ".csv" do Guia Michelin.
 
 clean_data: Aqui você encontrará os dados limpos e tratados. Eles foram processados e preparados para análises posteriores.
 
+visualizacoes: Arquivos ".png" de gráficos gerados para o projeto no notebook.
+
 michelin_dashboard.pbix: Arquivo do dashboard em Power BI criado com base nos dados do Guia Michelin. Oferece um mapa e visualizações interativas para explorar os dados de forma mais detalhada.
 
 screenshot_default_mode.png: Captura de tela do dashboard em Power BI. Mostra como o dashboard aparece quando é aberto.
@@ -26,7 +28,7 @@ Julio C. Y. Martins
 yamashitajulio@gmail.com
 
 ### Observações:
-O tratamento de dados pode ser realizado no próprio Power BI, mas a maior parte foi feita em Python. Em breve, o código comentado será compartilhado. Lamento também não conseguir compartilhar o relatório online por enquanto. Logo estarei resolvendo esse problema. Agradeço a compreensão. 
+O tratamento de dados foi realizado a maior parte em python, mas também poderia ser feito no próprio Power BI. Lamento não conseguir compartilhar o relatório online por enquanto, mas logo estarei resolvendo esse problema. Agradeço a compreensão. 
 
 Qualquer dúvida estou à disposição. 😊
 
