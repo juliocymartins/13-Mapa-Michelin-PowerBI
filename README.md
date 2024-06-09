@@ -29,11 +29,11 @@ Julio C. Y. Martins
 yamashitajulio@gmail.com
 
 ### Observações:
-Caso esteja enfrentando dificuldade para exibir o mapa do dashboard em seu power bi, recomendo assistir esse vídeo: [Link Youtube](https://www.youtube.com/watch?v=0ZNEGoA93Pg)
+Caso esteja enfrentando dificuldade para exibir o mapa do dashboard, recomendo assistir esse vídeo: [Link Youtube](https://www.youtube.com/watch?v=0ZNEGoA93Pg)
 
-Nas últimas atualizações o Power BI acabou desabilitando esse recurso, então é importante que você habilite para que consiga visualizar normalmente esses gráficos.
+Nas últimas atualizações o Power BI desabilitou esse recurso, então é importante que você habilite para que consiga visualizar normalmente esse gráfico.
 
-O tratamento de dados foi realizado a maior parte em python, mas também poderia ser feito no próprio Power BI. Lamento não conseguir compartilhar o relatório online por enquanto, mas logo estarei resolvendo esse problema. Agradeço a compreensão. 
+O tratamento de dados foi realizado em python, mas poderia ser feito também no próprio Power BI. Lamento não conseguir compartilhar o relatório online por enquanto, mas logo estarei resolvendo esse problema. Agradeço a compreensão. 
 
 Qualquer dúvida estou à disposição. 😊
 
