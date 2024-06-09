@@ -1,4 +1,7 @@
 # Mapa Interativo Guia Michelin 
+
+Este repositório contém o projeto de exploração e visualização de dados do guia Michelin. Aqui você encontrará dados originais, dados limpos e tratados, bem como o dashboard em Power BI.
+
 <img align="center" alt="Coding" width="500" src="https://i.ytimg.com/vi/ejuoFBNrvhg/maxresdefault.jpg">
 
 ### Contexto:
