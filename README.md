@@ -2,7 +2,7 @@
 
 Este repositório contém o projeto de exploração e visualização de dados do guia Michelin. Aqui você encontrará dados originais, dados limpos e tratados, bem como o dashboard em Power BI.
 
-<img align="center" alt="Coding" width="500" src="https://i.ytimg.com/vi/ejuoFBNrvhg/maxresdefault.jpg">
+<img align="center" alt="Coding" width="500" src="https://touristexclusive.com/wp-content/uploads/2017/01/Michelin-Star.jpg">
 
 ### Contexto:
 No início da era automobilística (no ano de 1900), a Michelin, uma empresa de pneus, criou um guia de viagens, incluindo um guia de restaurantes.
